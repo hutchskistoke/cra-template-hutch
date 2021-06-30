@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-hutch",
+  "version": "1.0.0",
+  "description": "@hutchskistoke's default React App!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hutchskistoke/cra-template-hutch.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12"
+  },
+  "bugs": {
+    "url": "https://github.com/hutchskistoke/cra-template-hutch/issues"
+  },
+  "homepage": "https://github.com/hutchskistoke/cra-template-hutch#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
