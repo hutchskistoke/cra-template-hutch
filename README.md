@@ -4,5 +4,9 @@ This is a custom Create React App template made by [@hutchskistoke](https://gith
 
 ## Usage
 
-run 'npx create-raect-app name-of-app' followed by '--template hutch'
+run 'npx create-react-app name-of-app' followed by '--template hutch'
+
+```sh 
+npx create-react-app name-of-app --template hutch
+```
 
